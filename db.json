@@ -1,11 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "유럽 팔로우", "coupon": "FOLLOWUSINEUROPE",
+    { "id": 1, "title": "유럽 팔로우(사용기간 만료)", "coupon": "FOLLOWUSINEUROPE",
       "reward": [
         { "name": "크리스탈", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
       ]
     },
-    { "id": 2, "title": "DEVNOW BEHIND", "coupon": "CRKBEHINDNFUTURE",
+    { "id": 2, "title": "DEVNOW BEHIND(사용기간 만료)", "coupon": "CRKBEHINDNFUTURE",
       "reward": [
         { "name": "크리스탈", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
         { "name": "무지개 큐브", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
