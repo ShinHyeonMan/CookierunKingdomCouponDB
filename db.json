@@ -2,7 +2,7 @@
   "posts": [
     { "title": "디즈니 콜라보", "coupon": "CRKWELCOMEDISNEY",
       "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
+        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
       ]
     },
     { "title": "일본 라이브 방송", "coupon": "0728CKCOOKIELIVE",
@@ -10,12 +10,12 @@
         { "name": "크리스탈", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
         { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
         { "name": "보물 뽑기권", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/treasure-ticket.png" },
-        { "name": "30분 가속권", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-speed-up-30m.png" },
+        { "name": "30분 가속권", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-speed-up-30m.png" }
       ]
     },
     { "title": "유럽 팔로우(사용기간 만료)", "coupon": "FOLLOWUSINEUROPE",
       "reward": [
-        { "name": "크리스탈", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
+        { "name": "크리스탈", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
       ]
     },
     { "title": "DEVNOW BEHIND(사용기간 만료)", "coupon": "CRKBEHINDNFUTURE",
@@ -30,7 +30,7 @@
         { "name": "별사탕 Lv 6", "quantity": 130, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/star-jelly-6.png" },
         { "name": "코인", "quantity": 250000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" },
         { "name": "찬란한 빛조각", "quantity": 1200, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-radiant-shard.png" },
-        { "name": "토핑 조각", "quantity": 120, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" },
+        { "name": "토핑 조각", "quantity": 120, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" }
       ]
     }
   ]
