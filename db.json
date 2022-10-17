@@ -5,6 +5,11 @@
         { "name": "크리스탈", "quantity": 2000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
         { "name": "무지개 큐브", "quantity": 2000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
       ]
+    },
+    { "title": "쿠키런: 킹덤 라이브 방송", "coupon": "1015CKCOOKIELIVE",
+      "reward": [
+        { "name": "아미밤", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-army-bombs.png" }
+      ]
     }
   ]
 }
