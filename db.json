@@ -1,16 +1,16 @@
 {
   "posts": [
-    { "title": "쿠키런: 킹덤 2주년 D-5", "coupon": "CRK2NDBIRTHDAYD5",
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 5일", "coupon": "CRK2NDBIRTHDAYD5",
       "reward": [
         { "name": "빨리감기 태엽장치", "quantity": 30, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/time-jumper.png" }
       ]
     },
-    { "title": "쿠키런: 킹덤 2주년 D-6", "coupon": "CRK2NDBIRTHDAYD6",
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 6일", "coupon": "CRK2NDBIRTHDAYD6",
       "reward": [
         { "name": "보물 뽑기권", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/treasure-ticket.png" }
       ]
     },
-    { "title": "쿠키런: 킹덤 2주년 D-7", "coupon": "CRK2NDBIRTHDAYD7",
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 7일", "coupon": "CRK2NDBIRTHDAYD7",
       "reward": [
         { "name": "특별한 쿠키커터", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/special-cookie-cutter.png" }
       ]
