@@ -1,14 +1,24 @@
 {
   "posts": [
+    { "title": "쿠키런: 킹덤 2주년 D-5", "coupon": "CRK2NDBIRTHDAYD5",
+      "reward": [
+        { "name": "빨리감기 태엽장치", "quantity": 30, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/time-jumper.png" }
+      ]
+    },
+    { "title": "쿠키런: 킹덤 2주년 D-6", "coupon": "CRK2NDBIRTHDAYD6",
+      "reward": [
+        { "name": "보물 뽑기권", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/treasure-ticket.png" }
+      ]
+    },
+    { "title": "쿠키런: 킹덤 2주년 D-7", "coupon": "CRK2NDBIRTHDAYD7",
+      "reward": [
+        { "name": "특별한 쿠키커터", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/special-cookie-cutter.png" }
+      ]
+    },
     { "title": "Pocket Gamer Awards", "coupon": "POCKETGAMERAWARD",
       "reward": [
         { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
         { "name": "무지개 큐브", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
-      ]
-    },
-    { "title": "LATAM을 팔로우해주셔서 감사합니다!", "coupon": "FOLLOWINGINLATAM",
-      "reward": [
-        { "name": "크리스탈", "quantity": 2500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
       ]
     },
     { "title": "BTS쿠키들의 깜짝 선물!", "coupon": "CRKINGDOMWITHBTS",
