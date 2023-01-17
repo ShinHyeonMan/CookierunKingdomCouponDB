@@ -1,5 +1,10 @@
 {
   "posts": [
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 4일", "coupon": "CRK2NDBIRTHDAYD4",
+      "reward": [
+        { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
+      ]
+    },
     { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 5일", "coupon": "CRK2NDBIRTHDAYD5",
       "reward": [
         { "name": "빨리감기 태엽장치", "quantity": 30, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/time-jumper.png" }
