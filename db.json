@@ -1,5 +1,10 @@
 {
   "posts": [
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 3일", "coupon": "CRK2NDBIRTHDAYD3",
+      "reward": [
+        { "name": "토핑 조각", "quantity": 100, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" }
+      ]
+    },
     { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 4일", "coupon": "CRK2NDBIRTHDAYD4",
       "reward": [
         { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
@@ -18,12 +23,6 @@
     { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 7일", "coupon": "CRK2NDBIRTHDAYD7",
       "reward": [
         { "name": "특별한 쿠키커터", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/special-cookie-cutter.png" }
-      ]
-    },
-    { "title": "Pocket Gamer Awards", "coupon": "POCKETGAMERAWARD",
-      "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
       ]
     },
     { "title": "BTS쿠키들의 깜짝 선물!", "coupon": "CRKINGDOMWITHBTS",
