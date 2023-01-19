@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 2일", "coupon": "CRKALWAYSLOVEYOU",
+    { "title": "킹덤 2주년 축하 기념! 개발자의 편지 영상 깜짝 쿠폰 보상!", "coupon": "CRKALWAYSLOVEYOU",
       "reward": [
         { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
         { "name": "무지개 큐브", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
