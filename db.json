@@ -15,6 +15,11 @@
         { "name": "경험의 별사탕 Lv 6", "quantity": 100, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/star-jelly-6.png" }
       ]
     },
+    { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 0일", "coupon": "2NDBIRTHDAYPARTY",
+      "reward": [
+        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
+      ]
+    },
     { "title": "쿠키런: 킹덤의 두 번째 생일까지 앞으로 1일", "coupon": "CRK2NDBIRTHDAYD1",
       "reward": [
         { "name": "경험의 별사탕 Lv 6", "quantity": 100, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/star-jelly-6.png" }
