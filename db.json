@@ -56,12 +56,6 @@
       "reward": [
         { "name": "특별한 쿠키커터", "quantity": 3, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/special-cookie-cutter.png" }
       ]
-    },
-    { "title": "BTS쿠키들의 깜짝 선물!", "coupon": "CRKINGDOMWITHBTS",
-      "reward": [
-        { "name": "아미밤", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-army-bombs.png" },
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
-      ]
     }
   ]
 }
