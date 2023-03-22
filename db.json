@@ -1,5 +1,9 @@
 {
   "posts": [
-    
+    { "title": "", "coupon": "BLOSSOMINGGIFT",
+      "reward": [
+        { "name": "크리스탈", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
+      ]
+    }
   ]
 }
