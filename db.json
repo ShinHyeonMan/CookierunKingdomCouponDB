@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "title": "", "coupon": "BLOSSOMINGGIFT",
+    { "title": "벚꽃맛 쿠키의 봄맞이 선물이 도착했어요!", "coupon": "BLOSSOMINGGIFT",
       "reward": [
         { "name": "크리스탈", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
       ]
