@@ -1,5 +1,10 @@
 {
   "posts": [
+    { "title": "", "coupon": "BRAVESPRINGGIFT",
+      "reward": [
+        { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
+      ]
+    },
     { "title": "허브맛 쿠키의 봄맞이 선물이 도착했어요!", "coupon": "HERBSPRINGGIFT",
       "reward": [
         { "name": "스태미너젤리", "quantity": 100, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-stamina-jelly.png" },
