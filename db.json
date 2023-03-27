@@ -1,5 +1,10 @@
 {
   "posts": [
+    { "title": "체리맛 쿠키의 봄맞이 선물이 도착했어요!", "coupon": "CHERRYSPRINGGIFT",
+      "reward": [
+        { "name": "빨리감기 태엽장치", "quantity": 20, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/time-jumper.png" }
+      ]
+    },
     { "title": "용감한 쿠키의 봄맞이 선물이 도착했어요!", "coupon": "BRAVESPRINGGIFT",
       "reward": [
         { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
