@@ -1,14 +1,20 @@
 {
   "posts": [
-    { "title": "구글 플레이 Best of 2023 Awards", "coupon": "GOOGLEPLAY2023",
+    { "title": "마지막에 남은 쿠키는? Ep. 8", "coupon": "LCSFINALEGIFTFORYOU",
       "reward": [
         { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
+        { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
       ]
     },
-    { "title": "크리스탈 선물!", "coupon": "CRKINDONESIA",
+    { "title": "마지막에 남은 쿠키는? Ep. 7", "coupon": "TUNEINTOTHELCSFINALE",
       "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
+        { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
+      ]
+    },
+    { "title": "쿠키런: 킹덤 연말 편지💝", "coupon": "FROMKINGDOMWITHLOVE",
+      "reward": [
+        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
+        { "name": "무지개 큐브", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
       ]
     }
   ]
