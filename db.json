@@ -1,5 +1,5 @@
 {
-  "posts" [
+  "posts": [
     { "title": "쿠키런: 킹덤 3주년 D-3", "coupon": "CRK3RDANNIVERSARYA",
       "reward": [
         { "name": "토핑 조각", "quantity": 150, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" }
