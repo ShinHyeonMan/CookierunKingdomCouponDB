@@ -2,17 +2,17 @@
   "posts": [
     { "title": "쿠키런: 킹덤 3주년 D-3", "coupon": "CRK3RDANNIVERSARYA",
       "reward": [
-        { "name": "토핑 조각", "quantity": 150, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" },
+        { "name": "토핑 조각", "quantity": 150, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" }
       ]
     },
     { "title": "쿠키런: 킹덤 3주년 D-4", "coupon": "CRK3RDANNIVERSARYYE",
       "reward": [
-        { "name": "마법의 쿠키커터", "quantity": 5, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/magic-cookie-cutter.png" },
+        { "name": "마법의 쿠키커터", "quantity": 5, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/magic-cookie-cutter.png" }
       ]
     },
     { "title": "쿠키런: 킹덤 3주년 D-5", "coupon": "CRK3RDANNIVERSARYT",
       "reward": [
-        { "name": "코인", "quantity": 500000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" },
+        { "name": "코인", "quantity": 500000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" }
       ]
     },
     { "title": "쿠키런: 킹덤 3주년 D-6", "coupon": "CRK3RDANNIVERSARYAS",
