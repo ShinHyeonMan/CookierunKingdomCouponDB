@@ -3,7 +3,7 @@
     { "title": "쿠키런: 마녀의 성 쇼케이스", "coupon": "LOVEWITCHSCASTLE",
       "reward": [
         { "name": "크리스탈", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
+        { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
       ]
     }
   ]
