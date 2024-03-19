@@ -1,62 +1,9 @@
 {
   "posts": [
-    { "title": "쿠키런: 킹덤 3주년 D-1", "coupon": "INCRK3RDANNIVERSARY",
+    { "title": "쿠키런: 마녀의 성 쇼케이스", "coupon": "LOVEWITCHSCASTLE",
       "reward": [
-        { "name": "크리스탈", "quantity": 1000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-2", "coupon": "CRK3RDANNIVERSARYST",
-      "reward": [
-        { "name": "코인", "quantity": 500000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" }
-      ]
-    },
-    { "title": "비스트이스트 대륙 개발자 코멘터리", "coupon": "WELCOMETOBEASTYEAST",
-      "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
-        { "name": "마법의 쿠키커터", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/magic-cookie-cutter.png" },
-        { "name": "오로라 벽돌", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/aurora-brick.png" },
-        { "name": "오로라 나침반", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/aurora-compass.png" },
-        { "name": "오로라 기둥", "quantity": 10, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/aurora-pillar.png" },
-        { "name": "코인", "quantity": 250000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" },
-        { "name": "경험의 별사탕 Lv6", "quantity": 100, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/star-jelly-6.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-3", "coupon": "CRK3RDANNIVERSARYA",
-      "reward": [
-        { "name": "토핑 조각", "quantity": 150, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Icon-topping-piece.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-4", "coupon": "CRK3RDANNIVERSARYYE",
-      "reward": [
-        { "name": "마법의 쿠키커터", "quantity": 5, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/magic-cookie-cutter.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-5", "coupon": "CRK3RDANNIVERSARYT",
-      "reward": [
-        { "name": "코인", "quantity": 500000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/Currency-coin.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-6", "coupon": "CRK3RDANNIVERSARYAS",
-      "reward": [
-        { "name": "특별한 쿠키커터", "quantity": 5, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/special-cookie-cutter.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 3주년 D-7", "coupon": "CRK3RDANNIVERSARYBE",
-      "reward": [
-        { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
-      ]
-    },
-    { "title": "마지막에 남은 쿠키는? Ep. 8", "coupon": "LCSFINALEGIFTFORYOU",
-      "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
-      ]
-    },
-    { "title": "쿠키런: 킹덤 연말 편지💝", "coupon": "FROMKINGDOMWITHLOVE",
-      "reward": [
-        { "name": "크리스탈", "quantity": 3000, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
-        { "name": "무지개 큐브", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" }
+        { "name": "크리스탈", "quantity": 1500, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/crystal.png" },
+        { "name": "무지개 큐브", "quantity": 300, "imgUrl": "http://cswsshm0627.dothome.co.kr/CookierunKingdom/rainbow-cube.png" },
       ]
     }
   ]
