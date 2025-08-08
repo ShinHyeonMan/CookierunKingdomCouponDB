@@ -12,39 +12,8 @@
       ]
     },
     {
-      "title": "이환PD의 스페셜 쿠폰 선물",
-      "coupon": "CRKCOOLSUMMER",
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
-        },
-        {
-          "name": "무지개 큐브",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
-        },
-        {
-          "name": "숙명의 쿠키커터",
-          "quantity": 10,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp&w=96&q=75"
-        },
-        {
-          "name": "빛나는 비스킷 도우",
-          "quantity": 150,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510994-u5ijko.webp&w=96&q=75"
-        },
-        {
-          "name": "두툼한 스태미너 젤리",
-          "quantity": 300,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509582-psg6vh.webp&w=96&q=75"
-        }
-      ]
-    },
-    {
-      "title": "북미 영어 성우 라이브",
-      "coupon": "VALIVETABLEREAD",
+      "title": "Cook-ieRun: Kingdom 2025",
+      "coupon": "COOKINGRUNCOOKIE",
       "reward": [
         {
           "name": "크리스탈",
@@ -64,81 +33,12 @@
       ]
     },
     {
-      "title": "남도형 성우 x 김이환 PD 미니게임 챌린지",
-      "coupon": "CKXBCMINIGAME",
+      "title": "공식 디스코드 50만 돌파",
+      "coupon": "FIVEHUNDREDGRATS",
       "reward": [
         {
           "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
-        },
-        {
-          "name": "무지개 큐브",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
-        },
-        {
-          "name": "숙명의 쿠키커터",
-          "quantity": 10,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp&w=96&q=75"
-        }
-      ]
-    },
-    {
-      "title": "남도형 성우 x 김이환 PD 특별 방송",
-      "coupon": "CKBEASTSUCCESS05",
-      "reward": [
-        {
-          "name": "숙명의 쿠키커터",
-          "quantity": 20,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp&w=96&q=75"
-        }
-      ]
-    },
-    {
-      "title": "CookieRun: Kingdom 유튜브 채널 100만 구독 달성 기념",
-      "coupon": "KINGDOM1MILLION",
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
-        },
-        {
-          "name": "무지개 큐브",
-          "quantity": 1500,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
-        }
-      ]
-    },
-    {
-      "title": "쿠키런 킹덤 EN 인스타 팔로워 500000 기념",
-      "coupon": "FIVEHUNDREDINSTA",
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
-        },
-        {
-          "name": "무지개 큐브",
-          "quantity": 1500,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
-        },
-        {
-          "name": "초코정크 초크",
-          "quantity": 1500,
-          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp&w=96&q=75"
-        }
-      ]
-    },
-    {
-      "title": "SunnyLiu 유튜브",
-      "coupon": "SUNNYLIUCOUPON4U",
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
+          "quantity": 5000,
           "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
         },
         {
@@ -148,7 +48,7 @@
         },
         {
           "name": "초코정크 초크",
-          "quantity": 3000,
+          "quantity": 1500,
           "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp&w=96&q=75"
         }
       ]
