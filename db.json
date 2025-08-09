@@ -1,1 +1,57 @@
-
+{
+  "posts": [
+    {
+      "title": "클릭해서 사이트 이동 후, 설탕노움 클릭하고 보상 받기",
+      "coupon": "스튜디오 킹덤 홈페이지 프로모션",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 3000,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
+        }
+      ]
+    },
+    {
+      "title": "Cook-ieRun: Kingdom 2025",
+      "coupon": "COOKINGRUNCOOKIE",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 3000,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
+        },
+        {
+          "name": "무지개 큐브",
+          "quantity": 1500,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
+        },
+        {
+          "name": "초코정크 초크",
+          "quantity": 500,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp&w=96&q=75"
+        }
+      ]
+    },
+    {
+      "title": "공식 디스코드 50만 돌파",
+      "coupon": "FIVEHUNDREDGRATS",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 5000,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp&w=96&q=75"
+        },
+        {
+          "name": "무지개 큐브",
+          "quantity": 3000,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp&w=96&q=75"
+        },
+        {
+          "name": "초코정크 초크",
+          "quantity": 1500,
+          "imgUrl": "https://www.sk2gacha.com/_next/image?url=https%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp&w=96&q=75"
+        }
+      ]
+    }
+  ]
+}
