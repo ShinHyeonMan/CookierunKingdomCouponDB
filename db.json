@@ -3,6 +3,7 @@
     {
       "title": "클릭해서 사이트 이동 후, 설탕노움 클릭하고 보상 받기",
       "coupon": "스튜디오 킹덤 홈페이지 프로모션",
+      "link": "https://studiokingdom.co.kr/kingdom",
       "reward": [
         {
           "name": "크리스탈",
@@ -14,6 +15,7 @@
     {
       "title": "Cook-ieRun: Kingdom 2025",
       "coupon": "COOKINGRUNCOOKIE",
+      "link": null,
       "reward": [
         {
           "name": "크리스탈",
@@ -35,6 +37,7 @@
     {
       "title": "공식 디스코드 50만 돌파",
       "coupon": "FIVEHUNDREDGRATS",
+      "link": null,
       "reward": [
         {
           "name": "크리스탈",
