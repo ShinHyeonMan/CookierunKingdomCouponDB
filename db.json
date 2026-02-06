@@ -1,18 +1,6 @@
 {
   "posts": [
     {
-      "title": "스튜디오 킹덤 홈페이지 프로모션",
-      "coupon": "",
-      "link": "https://studiokingdom.co.kr/kingdom",
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
-        }
-      ]
-    },
-    {
       "title": "쿠키런: 킹덤 5주년 D-Day",
       "coupon": "HAPPY5THANNIVERSARY",
       "link": null,
