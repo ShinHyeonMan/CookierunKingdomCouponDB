@@ -1,1 +1,112 @@
-
+{
+  "posts": [
+    {
+      "title": "스튜디오 킹덤 홈페이지 프로모션",
+      "link": "https://studiokingdom.co.kr/kingdom",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 3000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-Day",
+      "coupon": "HAPPY5THANNIVERSARY",
+      "reward": [
+        {
+          "name": "무지개 큐브",
+          "quantity": 2000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp\u0026w\u003d96\u0026q\u003d75"
+        },
+        {
+          "name": "빛나는 비스킷 도우",
+          "quantity": 50,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510994-u5ijko.webp\u0026w\u003d96\u0026q\u003d75"
+        },
+        {
+          "name": "숙명의 쿠키커터",
+          "quantity": 10,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-1",
+      "coupon": "CRK5THANNIVERSARYH",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 3000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-2",
+      "coupon": "CRK5THANNIVERSARYC",
+      "reward": [
+        {
+          "name": "두툼한 스태미너 젤리",
+          "quantity": 200,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509582-psg6vh.webp\u0026w\u003d96\u0026q\u003d75"
+        },
+        {
+          "name": "빛나는 비스킷 도우",
+          "quantity": 50,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510994-u5ijko.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-3",
+      "coupon": "CRK5THANNIVERSARYT",
+      "reward": [
+        {
+          "name": "무지개 큐브",
+          "quantity": 1500,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-4",
+      "coupon": "CRK5THANNIVERSARYI",
+      "reward": [
+        {
+          "name": "숙명의 쿠키커터",
+          "quantity": 5,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "쿠키런: 킹덤 5주년 D-5",
+      "coupon": "CRK5THANNIVERSARYW",
+      "reward": [
+        {
+          "name": "초코정크 초크",
+          "quantity": 1000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
+      "title": "아니메 임펄스 DEVTALK",
+      "coupon": "CRKANIMEIMPULSE2026",
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 5000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
+        },
+        {
+          "name": "무지개 큐브",
+          "quantity": 3000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    }
+  ]
+}
