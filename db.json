@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "title": "케데헌 콜라보",
+      "coupon": "CRKKPDHCOLLABNOW",
+      "link": null,
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 3000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
       "title": "이환PD의 작별 선물",
       "coupon": "TODEARESTFROMIHWAN",
       "link": null,
@@ -117,38 +129,6 @@
           "name": "초코정크 초크",
           "quantity": 1000,
           "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509314-mm0sz8.webp\u0026w\u003d96\u0026q\u003d75"
-        }
-      ]
-    },
-    {
-      "title": "쿠키런: 킹덤 5주년",
-      "coupon": "CRKINTAIWAN2026",
-      "link": null,
-      "reward": [
-        {
-          "name": "버터호박석",
-          "quantity": 1,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F2025-09-19T22-30-44-119_4v2a03.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "빛나는 비스킷 도우",
-          "quantity": 50,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510994-u5ijko.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "고농축 도약의 별사탕 시럽 Lv.80",
-          "quantity": 1,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F2026-03-09T00-10-31-408_p2sxvj.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "고농축 파우더 단지 Lv.80",
-          "quantity": 1,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F2026-03-09T00-10-50-635_metobw.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "두툼한 스태미너 젤리",
-          "quantity": 100,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386509582-psg6vh.webp\u0026w\u003d96\u0026q\u003d75"
         }
       ]
     },
