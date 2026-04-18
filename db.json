@@ -40,38 +40,6 @@
       ]
     },
     {
-      "title": "케데헌 콜라보",
-      "coupon": "KDHXCRK2026",
-      "link": null,
-      "reward": [
-        {
-          "name": "숙명의 쿠키커터",
-          "quantity": 5,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510479-o9heof.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "크리스탈",
-          "quantity": 3000,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "무지개 큐브",
-          "quantity": 1500,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "빛나는 비스킷 도우",
-          "quantity": 50,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386510994-u5ijko.webp\u0026w\u003d96\u0026q\u003d75"
-        },
-        {
-          "name": "버터호박석",
-          "quantity": 1,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F2025-09-19T22-30-44-119_4v2a03.webp\u0026w\u003d96\u0026q\u003d75"
-        }
-      ]
-    },
-    {
       "title": "쿠키런: 킹덤 유튜브 구독자 200만 기념",
       "coupon": "2MSUBSCRIBERSCRK",
       "link": null,
@@ -106,18 +74,6 @@
         {
           "name": "크리스탈",
           "quantity": 3000,
-          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
-        }
-      ]
-    },
-    {
-      "title": "COOKIERUNXIDUS",
-      "coupon": "COOKIERUNXIDUS",
-      "link": null,
-      "reward": [
-        {
-          "name": "크리스탈",
-          "quantity": 500,
           "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386511862-6ngij4.webp\u0026w\u003d96\u0026q\u003d75"
         }
       ]
