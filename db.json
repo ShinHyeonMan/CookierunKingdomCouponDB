@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "title": "SCOOP 성우 라이브",
+      "coupon": "SCOOPVOICEACTORS",
+      "link": null,
+      "reward": [
+        {
+          "name": "무지개 큐브",
+          "quantity": 3000,
+          "imgUrl": "https://sugargnome.com/_next/image?url\u003dhttps%3A%2F%2Fsugar-gnome-warehouse-img.org%2Fimages%2F1749386467842-swrh1i.webp\u0026w\u003d96\u0026q\u003d75"
+        }
+      ]
+    },
+    {
       "title": "쿠키런: 킹덤 라이브",
       "coupon": "CRKCHRONOSLIVE26",
       "link": null,
