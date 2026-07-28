@@ -1,6 +1,43 @@
 {
   "posts": [
     {
+      "title": "쿠키런 REBIRTH 라이브",
+      "coupon": "CRKREBIRTHLIVE",
+      "link": null,
+      "reward": [
+        {
+          "name": "크리스탈",
+          "quantity": 5000,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/1749386511862-6ngij4.webp"
+        },
+        {
+          "name": "무지개 큐브",
+          "quantity": 5000,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/1749386467842-swrh1i.webp"
+        },
+        {
+          "name": "빛나는 비스킷 도우",
+          "quantity": 300,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/1749386510994-u5ijko.webp"
+        },
+        {
+          "name": "숙명의 쿠키커터",
+          "quantity": 20,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/1749386510479-o9heof.webp"
+        },
+        {
+          "name": "버터호박석",
+          "quantity": 10,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/2025-09-19T22-30-44-119_4v2a03.webp"
+        },
+        {
+          "name": "두툼한 스태미너 젤리",
+          "quantity": 100,
+          "imgUrl": "https://sugar-gnome-warehouse-img.org/images/1749386509582-psg6vh.webp"
+        }
+      ]
+    },
+    {
       "title": "쿠키런: 킹덤 라이브",
       "coupon": "CRKCHRONOSLIVE26",
       "link": null,
